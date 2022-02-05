@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-populist",
+  "name": "@winstonjs/eslint-config-populist",
   "version": "4.2.0",
   "description": "A (one day) auto-updating style at the mercy of the people, and only the people.",
   "main": "index.js",
@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/indexzero/populist-style",
   "dependencies": {
-    "eslint": "^4.3.0",
-    "eslint-find-rules": "^3.1.1",
-    "eslint-plugin-json": "^1.2.0",
-    "eslint-plugin-mocha": "^4.8.0"
+    "eslint": "^8.8.0",
+    "eslint-find-rules": "^4.1.0",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-mocha": "^10.0.3"
   }
 }
