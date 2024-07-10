@@ -112,7 +112,6 @@ module.exports = {
     'semi': 1,
     'strict': [2, 'global'],
     'use-isnan': 2,
-    'valid-jsdoc': [2, { prefer: { return: 'returns' }, requireReturn: false }],
     //
     // Whitespace or other stylistic rules. No --fix option exists in eslint,
     // but previously existed in jscs
